@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Initializable",
+  "sourceName": "contracts/common/meta-transactions/Initializable.sol",
+  "abi": [],
+  "bytecode": "0x60806040526000805460ff19169055348015601957600080fd5b50603f8060276000396000f3fe6080604052600080fdfea2646970667358221220e72a71b2e127cd901bacd3c9d72e43e48dbbff1fb0b43e7397dc086a9a7a91e364736f6c63430008070033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220e72a71b2e127cd901bacd3c9d72e43e48dbbff1fb0b43e7397dc086a9a7a91e364736f6c63430008070033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
